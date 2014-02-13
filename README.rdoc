@@ -1,5 +1,8 @@
 == README
 
+This is the read me for myapp for SaaS 
+February 13th, 2014 
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
